@@ -9,6 +9,7 @@ get SOC function seems to be a bit off based on when the alert pin triggers this
 
 
 code referances
+
 https://github.com/awelters/LiPoFuelGauge/blob/master/MAX17043.cpp
 https://github.com/pAIgn10/LiFuelGauge
 https://github.com/lucadentella/ArduinoLib_MAX17043/blob/master/MAX17043.cpp
